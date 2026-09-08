@@ -1,0 +1,28 @@
+kind = "web"
+previewPath = "/"
+title = "Akshitha Shetty — Robotics Portfolio"
+description = "A polished personal portfolio for Akshitha Shetty, a Robotics and Automation Engineering student specializing in ROS 2 autonomy, UAV systems, computer vision, and hardware-software integration."
+version = "1.0.0"
+id = "artifacts/akshitha-robotics-portfolio"
+router = "path"
+
+[[services]]
+name = "web"
+paths = [ "/" ]
+localPort = 18438
+
+[services.development]
+run = "pnpm --filter @workspace/akshitha-robotics-portfolio run dev"
+
+[services.production]
+build = [ "pnpm", "--filter", "@workspace/akshitha-robotics-portfolio", "run", "build" ]
+serve = "static"
+publicDir = "artifacts/akshitha-robotics-portfolio/dist/public"
+
+[[services.production.rewrites]]
+from = "/*"
+to = "/index.html"
+
+[services.env]
+PORT = "18438"
+BASE_PATH = "/"

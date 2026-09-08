@@ -1,0 +1,1 @@
+- [Python package installation](python-package-installation.md) — this environment's base Python may not include pip; use the workspace package installer for one-off Python tooling.
