@@ -1,0 +1,495 @@
+1 notification
+Invitation sent to Rashmi.
+
+
+
+Search
+
+
+Home
+My Network
+Jobs
+Messaging
+Notifications
+
+
+Me
+
+For Business
+Try Premium for ₹0
+
+
+Akshitha Shetty
+
+Final Year Robotics & Automation Engineer | NITK Intern | Skilled in ROS2, MATLAB & SolidWorks | Seeking Full-Time Roles
+
+
+
+Enhance profile
+Add section
+
+Open to
+
+Skills
+
+
+
+All
+
+Industry Knowledge
+
+Tools & Technologies
+
+Interpersonal Skills
+
+Other Skills
+ROS 2 (Humble)
+
+Indoor Autonomous Mobile Robot (AMR)
+
+Intelligent Autonomous Warehouse Picking Robot (MAHE Hackathon 2026)
+
+Autonomous Guided Vehicles (AGV)
+
+Hybrid Autonomous Navigation System (ROS 2 Nav2 + Vision Line Following)
+
+SOLIDWORKS
+
+ArticulateX: Advanced Articulated Robotic Arm
+
+Design of Portable Catapult Launcher for UAVs
+
+Computer Vision
+
+Agridrone Audit: Intelligent ET Sensing & Water Management (SIH 2024)
+
+Hybrid Autonomous Navigation System (ROS 2 Nav2 + Vision Line Following)
+
+Drone Fabrication
+
+Autonomous Multirotor Drone (GPS-Integrated)
+
+Aerial Robotics
+
+Autonomous Multirotor Drone (GPS-Integrated)
+
+Flight Controllers
+
+Autonomous Multirotor Drone (GPS-Integrated)
+
+Data Processing
+
+Agridrone Audit: Intelligent ET Sensing & Water Management (SIH 2024)
+
+Agricultural Technology (AgriTech)
+
+Agridrone Audit: Intelligent ET Sensing & Water Management (SIH 2024)
+
+Robotic Arms
+
+ArticulateX: Advanced Articulated Robotic Arm
+
+3D Modeling
+
+ArticulateX: Advanced Articulated Robotic Arm
+
+Internet of Things (IoT)
+
+Smart Surveillance Robot
+
+Hardware-Software Integration
+
+Smart Surveillance Robot
+
+Embedded Systems
+
+Smart Surveillance Robot
+
+Remote Monitoring
+
+Smart Surveillance Robot
+
+Artificial Intelligence (AI)
+
+Smart Room Occupancy Detection System (AI/ML)
+
+GitHub
+
+Smart Room Occupancy Detection System (AI/ML)
+
+Smart Sensors
+
+Smart Room Occupancy Detection System (AI/ML)
+
+Data Modeling
+
+Smart Room Occupancy Detection System (AI/ML)
+
+Machine Learning
+
+Smart Room Occupancy Detection System (AI/ML)
+
+Flight Dynamics
+
+Design of Portable Catapult Launcher for UAVs
+
+Mechanical Systems
+
+Design of Portable Catapult Launcher for UAVs
+
+SLAM Toolbox
+
+Intelligent Autonomous Warehouse Picking Robot (MAHE Hackathon 2026)
+
+ArUco Detection
+
+Intelligent Autonomous Warehouse Picking Robot (MAHE Hackathon 2026)
+
+Cross-team Collaboration
+
+Intelligent Autonomous Warehouse Picking Robot (MAHE Hackathon 2026)
+
+Warehouse Automation
+
+Intelligent Autonomous Warehouse Picking Robot (MAHE Hackathon 2026)
+
+Differential Drive Robotics
+
+Indoor Autonomous Mobile Robot (AMR)
+
+Autonomous Mobile Robots (AMR)
+
+Indoor Autonomous Mobile Robot (AMR)
+
+Computer Hardware
+
+Indoor Autonomous Mobile Robot (AMR)
+
+Data Fusion
+
+ICE-PATH: Lunar Ice Detection & Rover Traverse Planning (ISRO BAH 2026)
+
+Cross-functional Team Leadership
+
+ICE-PATH: Lunar Ice Detection & Rover Traverse Planning (ISRO BAH 2026)
+
+Path Planning
+
+ICE-PATH: Lunar Ice Detection & Rover Traverse Planning (ISRO BAH 2026)
+
+Indoor Autonomous Mobile Robot (AMR)
+
+Space Exploration
+
+ICE-PATH: Lunar Ice Detection & Rover Traverse Planning (ISRO BAH 2026)
+
+Algorithm Design
+
+ICE-PATH: Lunar Ice Detection & Rover Traverse Planning (ISRO BAH 2026)
+
+Systems Engineering
+
+ICE-PATH: Lunar Ice Detection & Rover Traverse Planning (ISRO BAH 2026)
+
+GIS / Remote Sensing
+
+ICE-PATH: Lunar Ice Detection & Rover Traverse Planning (ISRO BAH 2026)
+
+URDF
+
+Hybrid Autonomous Navigation System (ROS 2 Nav2 + Vision Line Following)
+
+Proportional-Integral-Derivative (PID)
+
+Hybrid Autonomous Navigation System (ROS 2 Nav2 + Vision Line Following)
+
+Nav2
+
+Hybrid Autonomous Navigation System (ROS 2 Nav2 + Vision Line Following)
+
+Intelligent Autonomous Warehouse Picking Robot (MAHE Hackathon 2026)
+
+Pixhawk
+
+
+Project Intern at National Institute of Technology Karnataka
+
+ros2 humble
+
+
+Sahyadri College of Engineering & Management
+
+Hybrid Autonomous Navigation System (ROS 2 Nav2 + Vision Line Following)
+
+Indoor Autonomous Mobile Robot (AMR)
+
+Show all 4 details
+path palnning
+
+SLAM
+
+Hybrid Autonomous Navigation System (ROS 2 Nav2 + Vision Line Following)
+
+Indoor Autonomous Mobile Robot (AMR)
+
+autonomous navigation
+
+Hybrid Autonomous Navigation System (ROS 2 Nav2 + Vision Line Following)
+
+OpenCV
+
+Agridrone Audit: Intelligent ET Sensing & Water Management (SIH 2024)
+
+Hybrid Autonomous Navigation System (ROS 2 Nav2 + Vision Line Following)
+
+Intelligent Autonomous Warehouse Picking Robot (MAHE Hackathon 2026)
+
+Gazebos
+
+Hybrid Autonomous Navigation System (ROS 2 Nav2 + Vision Line Following)
+
+Intelligent Autonomous Warehouse Picking Robot (MAHE Hackathon 2026)
+
+ros2
+
+Hybrid Autonomous Navigation System (ROS 2 Nav2 + Vision Line Following)
+
+Python (Programming Language)
+
+Hybrid Autonomous Navigation System (ROS 2 Nav2 + Vision Line Following)
+
+Smart Room Occupancy Detection System (AI/ML)
+
+Mobile Robotics
+
+Hybrid Autonomous Navigation System (ROS 2 Nav2 + Vision Line Following)
+
+Raspberry Pi
+
+Smart Surveillance Robot
+
+Indoor Autonomous Mobile Robot (AMR)
+
+Arduino IDE
+
+Smart Surveillance Robot
+
+GPS Navigation
+
+Autonomous Multirotor Drone (GPS-Integrated)
+
+Flight contollers
+
+Autonomous Multirotor Drone (GPS-Integrated)
+
+UAV Design
+
+Autonomous Multirotor Drone (GPS-Integrated)
+
+Automation
+
+ArticulateX: Advanced Articulated Robotic Arm
+
+Hardware Design
+
+ArticulateX: Advanced Articulated Robotic Arm
+
+Actuators and controls
+
+ArticulateX: Advanced Articulated Robotic Arm
+
+robotic kinematics
+
+ArticulateX: Advanced Articulated Robotic Arm
+
+Remote Sensing
+
+Agridrone Audit: Intelligent ET Sensing & Water Management (SIH 2024)
+
+Autonomous Systems (Internet)
+
+Agridrone Audit: Intelligent ET Sensing & Water Management (SIH 2024)
+
+Autonomous Multirotor Drone (GPS-Integrated)
+
+Documentation
+
+
+Team member  at Team Challengers
+
+
+Endorsed by 1 person in the last 6 months
+
+1 endorsement
+
+Simulink
+
+
+Project Intern at National Institute of Technology Karnataka
+
+
+Endorsed by 1 person in the last 6 months
+
+1 endorsement
+
+Computer-Aided Design (CAD)
+
+
+Sahyadri College of Engineering & Management
+
+Design of Portable Catapult Launcher for UAVs
+
+
+Endorsed by 1 person in the last 6 months
+
+Show all 4 details
+MATLAB
+
+
+Project Intern at National Institute of Technology Karnataka
+
+
+Endorsed by 1 person in the last 6 months
+
+1 endorsement
+
+Yolo
+
+Agridrone Audit: Intelligent ET Sensing & Water Management (SIH 2024)
+
+1 endorsement
+
+Unmanned Aerial Vehicle (UAV)
+
+
+Project Intern at National Institute of Technology Karnataka
+
+Agridrone Audit: Intelligent ET Sensing & Water Management (SIH 2024)
+
+Design of Portable Catapult Launcher for UAVs
+
+Show all 5 details
+Teamwork
+
+
+Team member  at Team Challengers
+
+
+Endorsed by 1 person in the last 6 months
+
+1 endorsement
+
+C (Programming Language)
+
+
+Sahyadri College of Engineering & Management
+
+
+Endorsed by 1 person in the last 6 months
+
+1 endorsement
+
+Public Speaking
+
+
+Team member  at Team Challengers
+
+
+Sahyadri College of Engineering & Management
+
+
+Endorsed by 1 person in the last 6 months
+
+Show all 4 details
+Content writing 
+
+
+Sahyadri College of Engineering & Management
+
+
+Endorsed by 1 person in the last 6 months
+
+1 endorsement
+
+Aeromodelling
+
+
+Sahyadri College of Engineering & Management
+
+
+Endorsed by 1 person in the last 6 months
+
+1 endorsement
+
+Who your viewers also viewed
+Private to you
+
+
+Business Strategist at Team Challengers
+
+
+View
+
+Business Strategist at Team Challengers
+
+
+View
+
+Business Strategist at Team Challengers
+
+
+View
+
+Business Strategist at Team Challengers
+
+
+View
+About
+
+Accessibility
+
+Talent Solutions
+
+Community Guidelines
+
+Careers
+
+Marketing Solutions 
+
+Privacy & Terms
+
+Ad Choices
+
+Advertising
+
+Sales Solutions
+
+Mobile
+
+Small Business
+
+Safety Center
+
+LinkedIn Corporation © 2026
+
+Questions?
+
+Visit our Help Center.
+
+Manage your account and privacy
+
+Go to your Settings.
+
+Recommendation transparency
+
+Learn more about Recommended Content.
+
+Select language
+
+
+English (English)
+Akshitha Shetty
+MessagingYou are on the messaging overlay. Press enter to open the list of conversations.
+
+Compose message
+You are on the messaging overlay. Press enter to open the list of conversations.
