@@ -1,0 +1,306 @@
+1 notification
+Invitation sent to Rashmi.
+
+
+
+Search
+
+
+Home
+My Network
+Jobs
+Messaging
+Notifications
+
+
+Me
+
+For Business
+Try Premium for ₹0
+
+
+Akshitha Shetty
+
+Final Year Robotics & Automation Engineer | NITK Intern | Skilled in ROS2, MATLAB & SolidWorks | Seeking Full-Time Roles
+
+
+Projects
+
+ICE-PATH: Lunar Ice Detection & Rover Traverse Planning (ISRO BAH 2026)
+
+Jun 2026 – Jul 2026
+
+
+Associated with Sahyadri College of Engineering & Management
+
+Collaborated with Team LunarKinematics for ISRO’s Bharatiya Antariksh Hackathon (BAH) 2026 (Challenge 08). The project focused on detecting subsurface water ice in the Moon’s permanently shadowed south-polar craters using Chandrayaan-2 data, and translating that detection into an actionable landing-site and rover-traverse plan.
+System Overview:
+• Ice Confidence Index: Fused dual-frequency (L/S-band) DFSAR radar with terrain and illumination models, requiring both radar bands to agree before flagging ice to reject single-band false positives.
+• Site Selection: Ranked candidate landing sites based on slope, hazards, illumination, ice potential, and ground communication visibility.
+• Path Planning: Integrated a weighted A* search algorithm for rover traverse planning with dynamic profiles (Safety-First vs. Shortest-Path) that recalculate in real-time based on site selection.
+My Contributions:
+• Acted as a core cross-functional team member, collaborating on the conceptualization and logic design of the Ice Confidence Index and rover navigation constraints.
+• Contributed to the research and analysis of Chandrayaan-2 lunar terrain and radar data to help validate the accuracy of our hazard and ice-detection models.
+• Assisted in system integration and testing, ensuring the A* path planning algorithms interfaced smoothly with the data pipeline and provided reliable, real-time traverse calculations.
+
+Skills: Algorithm Design, Data Fusion, +5 skills
+
+Thumbnail for Certificate
+Certificate
+
+Other contributors
+
+View all contributors
+Hybrid Autonomous Navigation System (ROS 2 Nav2 + Vision Line Following)
+
+Mar 2026 – Mar 2026
+
+
+Associated with Sahyadri College of Engineering & Management
+
+Developed a hybrid autonomous navigation system applicable to warehouse robots and AGVs, integrating ROS 2 Nav2 global path planning with local visual guidance.
+Simulated the robot and dynamic environments in Gazebo using a full URDF model, and utilized SLAM Toolbox for real-time mapping alongside AMCL for localization.
+Engineered a custom vision-based line detection pipeline using OpenCV (HSV filtering) paired with a PID controller for smooth and precise line-tracking.
+Designed the software architecture using custom ROS 2 Action Servers for goal-based navigation, integrating a Twist multiplexer to seamlessly resolve control conflicts between the Nav2 stack and the local vision algorithm.
+Currently optimizing the computer vision algorithms for robustness under varying lighting conditions and preparing the system for real-world hardware deployment.
+
+Skills: Gazebos, ros2, +11 skills
+
+Other contributors
+
+
+
+
+Intelligent Autonomous Warehouse Picking Robot (MAHE Hackathon 2026)
+
+Mar 2026 – Mar 2026
+
+
+Associated with Sahyadri College of Engineering & Management
+
+Collaborated with Team SudoSquad at the MAHE Hackathon 2026 to design, build, and simulate a fully autonomous warehouse picking robot that integrates computer vision with intelligent task prioritization.
+System Overview:
+Vision & Detection: Engineered an OpenCV and ArUco marker detection pipeline for real-time task identification, utilizing a multi-frame temporal filter to successfully eliminate false-positive detections.
+Dynamic Task Scheduling: Developed a custom cost-based decision algorithm (evaluating distance, item weight, and priority constraints) that enables the robot to re-plan missions and update active queues in under 200ms upon receiving higher-priority tasks.
+Navigation & Safety: Implemented the ROS 2 Nav2 stack (A* global planner, DWA local planner) and SLAM Toolbox for mapping, while integrating a dedicated safety layer for e-stops and velocity clamping.
+Simulation: Validated the complete end-to-end software architecture in Gazebo Classic using a custom warehouse environment with precise marker-to-world-coordinate mapping.
+My Contributions:
+Acted as a core cross-functional team member, driving the seamless integration between the OpenCV vision pipeline, the task-scheduling logic, and the ROS 2 navigation stack.
+Collaborated on testing and validating the robot's dynamic replanning algorithm within the Gazebo simulation environment, ensuring consistent sub-200ms response times.
+Assisted in debugging and tuning the Nav2 parameters and safety layers to guarantee reliable obstacle avoidance and smooth trajectory execution during the final hackathon demonstration.
+
+Skills: Gazebos, Cross-team Collaboration, +7 skills
+
+Other contributors
+
+
+
+Indoor Autonomous Mobile Robot (AMR)
+
+Jan 2026 – Jan 2026
+
+
+Associated with Sahyadri College of Engineering & Management
+
+Developed a custom-built differential drive robot for autonomous navigation and mapping in indoor environments as part of an intensive, hands-on Skill Lab project.
+
+Hardware & OS: Architected the system using a Raspberry Pi 4/5 as the central compute unit, operating on ROS 2 Humble.
+
+Mapping: Implemented Simultaneous Localization and Mapping (SLAM) to process sensor data and generate accurate, real-time maps of physical indoor spaces.
+
+Navigation: Integrated autonomous path planning algorithms to enable the robot to navigate dynamically while avoiding obstacles.
+
+Systems Integration: Successfully bridged the gap between low-level hardware control (differential drive motors/sensors) and high-level software navigation stacks.
+
+Skills: Autonomous Mobile Robots (AMR), Computer Hardware, +6 skills
+
+Other contributors
+
+
+
+
+Smart Room Occupancy Detection System (AI/ML)
+
+Nov 2025 – Nov 2025
+
+
+Associated with Sahyadri College of Engineering & Management
+
+Collaborated with a team to develop an Artificial Intelligence and Machine Learning (AI/ML) model designed to accurately predict and monitor room occupancy.
+Model Development: Designed and trained data models to process environmental/sensor data, optimizing the algorithm to detect human presence with high accuracy.
+Data Modeling: Handled data preprocessing, feature engineering, and model evaluation to ensure reliable predictions in real-world, dynamic room environments.
+Version Control & Collaboration: Managed the project workflow and codebase collaboratively using Git and GitHub alongside other contributors.
+Impact: This type of occupancy detection model serves as a foundational component for smart building automation, HVAC optimization, and energy-saving systems.
+
+Skills: Machine Learning, Python (Programming Language), +4 skills
+
+Other contributors
+
+
+
+
+Design of Portable Catapult Launcher for UAVs
+
+Feb 2025 – May 2025
+
+
+Associated with National Institute of Technology Karnataka
+
+Developed as the core mechanical deliverable during my Project Internship at NITK. Designed and engineered a highly portable catapult launch mechanism to facilitate the reliable, short-runway deployment of a 1.5kg autonomous Unmanned Aerial Vehicle (UAV).
+Mechanical Design: Utilized SolidWorks to model the complete mechanical assembly, focusing on optimizing structural integrity while keeping the overall form factor lightweight and transportable.
+Launch Dynamics: Calculated and designed the tension and release mechanisms to ensure the UAV reached the required aerodynamic takeoff velocity safely and consistently before autonomous flight.
+Prototyping & Visualization: Generated comprehensive CAD models, detailed assembly constraints, and high-quality isometric views for structural validation and manufacturing reference.
+
+Skills: Unmanned Aerial Vehicle (UAV), Mechanical Systems, +3 skills
+
+Other contributors
+
+View all contributors
+Smart Surveillance Robot
+
+Apr 2025 – Apr 2025
+
+
+Associated with Sahyadri College of Engineering & Management
+
+Developed a remote-controlled surveillance robot during an intensive, hands-on Skill Lab, focusing on hardware-software integration for real-time monitoring and security applications.
+Hardware Integration: Architected the system using a Raspberry Pi as the primary compute unit to capture, process, and transmit a low-latency live camera feed for remote viewing.
+
+Embedded Programming: Utilized the Arduino IDE to program the microcontroller interface, enabling reliable communication and precise remote motor control.
+Practical Application: Designed the system architecture with real-world utility in mind, providing a functional prototype ideal for home security, automated patrols, and remote environment monitoring.
+
+Skills: Arduino IDE, Internet of Things (IoT), +4 skills
+
+Other contributors
+
+
+
+ArticulateX: Advanced Articulated Robotic Arm
+
+Dec 2024 – Jan 2025
+
+
+Associated with Sahyadri College of Engineering & Management
+
+Collaborated on the mechanical design and 3D modeling of "ArticulateX," a highly versatile robotic arm engineered for precision, dexterity, and flexibility.
+Mechanical CAD Design: Utilized SolidWorks to conceptualize and draft the complete 3D mechanical assembly, ensuring precise tolerances and structural viability.
+Kinematics & Articulation: Designed the arm utilizing advanced revolute and articulated joints to maximize the workspace envelope and allow for complex, multi-axis movements.
+Prototyping & Visualization: Generated detailed CAD assemblies and high-quality visual renders to validate the joint limits, range of motion, and overall mechanical layout before physical fabrication.
+
+Skills: Robotic Arms, Hardware Design, +5 skills
+
+Other contributors
+
+
+
++3
+Agridrone Audit: Intelligent ET Sensing & Water Management (SIH 2024)
+
+Sep 2024 – Nov 2024
+
+
+Associated with Team Challengers
+
+Selected at the institutional level for the prestigious Smart India Hackathon (SIH) 2024 to tackle a real-world problem statement provided by the Ministry of Jal Shakti. Collaborated to develop a drone-based intelligent agricultural auditing system tailored for irrigation commands.
+System Architecture: Conceptualized and developed an intelligent Evapotranspiration (ET) sensing and irrigation water use accounting system utilizing aerial UAV data.
+Computer Vision & AI: Engineered an image processing pipeline utilizing OpenCV and YOLO (You Only Look Once) to analyze drone feeds, detect agricultural patterns, and assess crop water requirements.
+Real-World Impact: Designed the system to optimize agricultural water management, providing data-driven insights to prevent water wastage and improve irrigation efficiency.
+Team Collaboration: Worked closely with cross-functional members of Team Challengers to bridge the gap between drone flight operations and backend AI data processing.
+
+Skills: Unmanned Aerial Vehicle (UAV), Remote Sensing, +6 skills
+
+Other contributors
+
+
+
+Autonomous Multirotor Drone (GPS-Integrated)
+
+Jul 2024 – Jul 2024
+
+
+Associated with Team Challengers
+
+Designed, fabricated, and flight-tested a highly stable multirotor drone, focusing on hardware reliability and foundational autonomous navigation capabilities.
+Hardware Integration: Assembled and configured the drone hardware, successfully integrating GPS modules with the core flight controller for real-time spatial tracking.
+Flight Control & Autonomy: Implemented and tuned precise position-holding algorithms (Loiter/Hold modes) to ensure stable hover and resistance to environmental drift.
+Safety Systems: Engineered autonomous failsafe protocols, including an automated emergency landing sequence (Return-to-Launch/Land) in the event of signal loss, ensuring enhanced flight safety and hardware recovery.
+
+Skills: GPS Navigation, Aerial Robotics, +5 skills
+
+Other contributors
+
+
+
++3
+Who your viewers also viewed
+Private to you
+
+
+Business Strategist at Team Challengers
+
+
+View
+
+Business Strategist at Team Challengers
+
+
+View
+
+Business Strategist at Team Challengers
+
+
+View
+
+Business Strategist at Team Challengers
+
+
+View
+About
+
+Accessibility
+
+Talent Solutions
+
+Community Guidelines
+
+Careers
+
+Marketing Solutions 
+
+Privacy & Terms
+
+Ad Choices
+
+Advertising
+
+Sales Solutions
+
+Mobile
+
+Small Business
+
+Safety Center
+
+LinkedIn Corporation © 2026
+
+Questions?
+
+Visit our Help Center.
+
+Manage your account and privacy
+
+Go to your Settings.
+
+Recommendation transparency
+
+Learn more about Recommended Content.
+
+Select language
+
+
+English (English)
+Akshitha Shetty
+MessagingYou are on the messaging overlay. Press enter to open the list of conversations.
+
+Compose message
+You are on the messaging overlay. Press enter to open the list of conversations.

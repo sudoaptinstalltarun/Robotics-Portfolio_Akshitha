@@ -73,6 +73,52 @@ const skillGroups = [
   { label: 'MECHANICAL & EMBEDDED', skills: ['SOLIDWORKS', 'MATLAB/Simulink', 'Fusion 360', 'Raspberry Pi', 'Arduino'] },
 ];
 
+const certifications = [
+  {
+    title: 'ISRO Bharatiya Antariksh Hackathon 2026',
+    issuer: 'Hack2skill',
+    date: 'Issued Aug 2026',
+    detail: 'Participant',
+    credentialId: '2026H2S06BAH-P31594',
+    tone: 'mint',
+  },
+  {
+    title: 'Simulink Onramp',
+    issuer: 'MATLAB Coding',
+    date: 'Issued Nov 2024',
+    detail: 'MathWorks',
+    tone: 'gold',
+  },
+  {
+    title: 'MATLAB Onramp',
+    issuer: 'MATLAB Coding',
+    date: 'Issued Nov 2024',
+    detail: 'MathWorks',
+    tone: 'gold',
+  },
+  {
+    title: 'Python Foundation',
+    issuer: 'SpringBoard',
+    date: 'Certificate',
+    detail: 'Programming fundamentals',
+    tone: 'blue',
+  },
+  {
+    title: 'Product Marketing Launch Plan',
+    issuer: 'Infosys Springboard',
+    date: 'Issued May 2026',
+    detail: 'Expired',
+    tone: 'coral',
+  },
+  {
+    title: 'Start a Business: Design Thinking & Entrepreneurship',
+    issuer: 'Infosys Springboard',
+    date: 'Issued May 2026',
+    detail: 'Expired',
+    tone: 'coral',
+  },
+];
+
 function TelemetryMark() {
   return (
     <span className="telemetry-mark" aria-hidden="true">
@@ -212,7 +258,25 @@ function CapabilitiesSection() {
           </div>
         ))}
       </div>
-      <div className="certification-row"><span className="mono">CERTIFIED IN</span><span>Python Foundation — SpringBoard</span><span>MATLAB Onramp — MathWorks</span><span>Simulink Onramp — MathWorks</span></div>
+      <div className="certifications-panel">
+        <div className="certifications-heading">
+          <span className="mono">LICENSES &amp; CERTIFICATIONS</span>
+          <span>Credentials collected across autonomy, software, and systems thinking.</span>
+        </div>
+        <div className="certifications-grid">
+          {certifications.map((certification) => (
+            <article className={`certification-card certification-${certification.tone}`} key={certification.title}>
+              <div className="certification-card-top">
+                <span className="certification-status"><i />{certification.detail}</span>
+                <span className="mono">{certification.date}</span>
+              </div>
+              <h3>{certification.title}</h3>
+              <p>{certification.issuer}</p>
+              {certification.credentialId && <span className="certification-id mono">ID / {certification.credentialId}</span>}
+            </article>
+          ))}
+        </div>
+      </div>
     </section>
   );
 }
