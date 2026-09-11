@@ -1,10 +1,5 @@
 import { useEffect, useState } from 'react';
-import { QueryClient, QueryClientProvider } from '@tanstack/react-query';
-import { Activity, ArrowDown, ArrowUpRight, Box, Check, ChevronDown, Crosshair, Download, ExternalLink, Github, Linkedin, Mail, Menu, MoveUpRight, Phone, Plane, Satellite, Terminal, X } from 'lucide-react';
-import { TooltipProvider } from '@/components/ui/tooltip';
-import { Toaster } from '@/components/ui/toaster';
-
-const queryClient = new QueryClient();
+import { Activity, ArrowDown, ArrowUpRight, Box, Check, Crosshair, Download, ExternalLink, Github, Linkedin, Menu, MoveUpRight, Phone, Plane, Satellite, Terminal, X } from 'lucide-react';
 
 type Project = {
   number: string;
@@ -465,7 +460,7 @@ function Home() {
 }
 
 function App() {
-  return <QueryClientProvider client={queryClient}><TooltipProvider><Home /><Toaster /></TooltipProvider></QueryClientProvider>;
+  return <Home />;
 }
 
 export default App;
