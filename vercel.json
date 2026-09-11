@@ -1,4 +1,5 @@
 {
+  "outputDirectory": "artifacts/akshitha-robotics-portfolio/dist/public",
   "rewrites": [
     {
       "source": "/(.*)",
