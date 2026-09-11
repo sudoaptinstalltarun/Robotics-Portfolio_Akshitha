@@ -132,11 +132,56 @@ const projects: Project[] = [
 ];
 
 const skillGroups = [
-  { label: 'ROBOTICS SYSTEMS', skills: ['ROS 2 Humble', 'Nav2', 'SLAM Toolbox', 'Gazebo', 'RViz', 'URDF'] },
-  { label: 'CODE & TOOLING', skills: ['Python', 'C++', 'C', 'Bash', 'Git', 'Linux'] },
-  { label: 'VISION & AI', skills: ['OpenCV', 'YOLOv8', 'ArUco Marker Detection'] },
-  { label: 'UAV SYSTEMS', skills: ['Pixhawk', 'ArduPilot', 'MAVLink', 'Mission Planner'] },
-  { label: 'MECHANICAL & EMBEDDED', skills: ['SOLIDWORKS', 'MATLAB/Simulink', 'Fusion 360', 'Raspberry Pi', 'Arduino'] },
+  {
+    label: 'ROBOTICS & AUTONOMY',
+    skills: [
+      'ROS 2 Humble', 'Autonomous Guided Vehicles (AGV)', 'Nav2', 'SLAM Toolbox',
+      'Gazebo', 'RViz', 'URDF', 'Path Planning', 'Autonomous Navigation',
+      'Differential Drive Robotics', 'Autonomous Mobile Robots (AMR)', 'Mobile Robotics',
+      'PID Control', 'Warehouse Automation', 'Systems Engineering', 'Algorithm Design', 'Automation',
+    ],
+  },
+  {
+    label: 'VISION, AI & DATA',
+    skills: [
+      'Computer Vision', 'OpenCV', 'YOLO', 'ArUco Detection', 'Artificial Intelligence (AI)',
+      'Machine Learning', 'Data Processing', 'Data Modeling', 'Smart Sensors', 'Data Fusion',
+      'GIS / Remote Sensing', 'Remote Sensing', 'Agricultural Technology (AgriTech)',
+      'Autonomous Systems',
+    ],
+  },
+  {
+    label: 'UAV & AERIAL SYSTEMS',
+    skills: [
+      'Drone Fabrication', 'Aerial Robotics', 'Flight Controllers', 'Flight Dynamics',
+      'Pixhawk', 'GPS Navigation', 'UAV Design', 'Unmanned Aerial Vehicle (UAV)',
+      'Aeromodelling', 'ArduPilot', 'MAVLink', 'Mission Planner',
+    ],
+  },
+  {
+    label: 'MECHANICAL & EMBEDDED',
+    skills: [
+      'SOLIDWORKS', 'Robotic Arms', '3D Modeling', 'Mechanical Systems',
+      'Hardware-Software Integration', 'Embedded Systems', 'Computer Hardware',
+      'Hardware Design', 'Actuators and Controls', 'Robotic Kinematics',
+      'Computer-Aided Design (CAD)', 'Fusion 360', 'Raspberry Pi', 'Arduino IDE',
+      'Internet of Things (IoT)',
+    ],
+  },
+  {
+    label: 'CODE & TOOLING',
+    skills: [
+      'Python (Programming Language)', 'C (Programming Language)', 'C++', 'MATLAB',
+      'Simulink', 'Git', 'GitHub', 'Bash', 'Linux',
+    ],
+  },
+  {
+    label: 'COLLABORATION & COMMUNICATION',
+    skills: [
+      'Cross-team Collaboration', 'Cross-functional Team Leadership', 'Teamwork',
+      'Documentation', 'Public Speaking', 'Content Writing', 'Remote Monitoring',
+    ],
+  },
 ];
 
 const certifications = [
