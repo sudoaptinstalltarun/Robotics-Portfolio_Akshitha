@@ -1,0 +1,98 @@
+1 notification
+Invitation sent to Rashmi.
+
+
+
+Search
+
+
+Home
+My Network
+Jobs
+Messaging
+Notifications
+
+
+Me
+
+For Business
+Try Premium for ₹0
+
+
+Akshitha Shetty
+
+Final Year Robotics & Automation Engineer | NITK Intern | Skilled in ROS2, MATLAB & SolidWorks | Seeking Full-Time Roles
+
+
+Projects
+
+ICE-PATH: Lunar Ice Detection & Rover Traverse Planning (ISRO BAH 2026)
+
+Jun 2026 – Jul 2026
+
+
+Associated with Sahyadri College of Engineering & Management
+
+Collaborated with Team LunarKinematics for ISRO’s Bharatiya Antariksh Hackathon (BAH) 2026 (Challenge 08). The project focused on detecting subsurface water ice in the Moon’s permanently shadowed south-polar craters using Chandrayaan-2 data, and translating that detection into an actionable landing-site and rover-traverse plan.
+System Overview:
+• Ice Confidence Index: Fused dual-frequency (L/S-band) DFSAR radar with terrain and illumination models, requiring both radar bands to agree before flagging ice to reject single-band false positives.
+• Site Selection: Ranked candidate landing sites based on slope, hazards, illumination, ice potential, and ground communication visibility.
+• Path Planning: Integrated a weighted A* search algorithm for rover traverse planning with dynamic profiles (Safety-First vs. Shortest-Path) that recalculate in real-time based on site selection.
+My Contributions:
+• Acted as a core cross-functional team member, collaborating on the conceptualization and logic design of the Ice Confidence Index and rover navigation constraints.
+• Contributed to the research and analysis of Chandrayaan-2 lunar terrain and radar data to help validate the accuracy of our hazard and ice-detection models.
+• Assisted in system integration and testing, ensuring the A* path planning algorithms interfaced smoothly with the data pipeline and provided reliable, real-time traverse calculations.
+
+Skills: Algorithm Design, Data Fusion, +5 skills
+
+Thumbnail for Certificate
+Certificate
+
+Other contributors
+
+View all contributors
+Hybrid Autonomous Navigation System (ROS 2 Nav2 + Vision Line Following)
+
+Mar 2026 – Mar 2026
+
+
+Associated with Sahyadri College of Engineering & Management
+
+Developed a hybrid autonomous navigation system applicable to warehouse robots and AGVs, integrating ROS 2 Nav2 global path planning with local visual guidance.
+Simulated the robot and dynamic environments in Gazebo using a full URDF model, and utilized SLAM Toolbox for real-time mapping alongside AMCL for localization.
+Engineered a custom vision-based line detection pipeline using OpenCV (HSV filtering) paired with a PID controller for smooth and precise line-tracking.
+Designed the software architecture using custom ROS 2 Action Servers for goal-based navigation, integrating a Twist multiplexer to seamlessly resolve control conflicts between the Nav2 stack and the local vision algorithm.
+Currently optimizing the computer vision algorithms for robustness under varying lighting conditions and preparing the system for real-world hardware deployment.
+
+Skills: Gazebos, ros2, +11 skills
+
+Other contributors
+
+
+
+
+Intelligent Autonomous Warehouse Picking Robot (MAHE Hackathon 2026)
+
+Mar 2026 – Mar 2026
+
+
+Associated with Sahyadri College of Engineering & Management
+
+Collaborated with Team SudoSquad at the MAHE Hackathon 2026 to design, build, and simulate a fully autonomous warehouse picking robot that integrates computer vision with intelligent task prioritization.
+System Overview:
+Vision & Detection: Engineered an OpenCV and ArUco marker detection pipeline for real-time task identification, utilizing a multi-frame temporal filter to successfully eliminate false-positive detections.
+Dynamic Task Scheduling: Developed a custom cost-based decision algorithm (evaluating distance, item weight, and priority constraints) that enables the robot to re-plan missions and update active queues in under 200ms upon receiving higher-priority tasks.
+Navigation & Safety: Implemented the ROS 2 Nav2 stack (A* global planner, DWA local planner) and SLAM Toolbox for mapping, while integrating a dedicated safety layer for e-stops and velocity clamping.
+Simulation: Validated the complete end-to-end software architecture in Gazebo Classic using a custom warehouse environment with precise marker-to-world-coordinate mapping.
+My Contributions:
+Acted as a core cross-functional team member, driving the seamless integration between the OpenCV vision pipeline, the task-scheduling logic, and the ROS 2 navigation stack.
+Collaborated on testing and validating the robot's dynamic replanning algorithm within the Gazebo simulation environment, ensuring consistent sub-200ms response times.
+Assisted in debugging and tuning the Nav2 parameters and safety layers to guarantee reliable obstacle avoidance and smooth trajectory execution during the final hackathon demonstration.
+
+Skills: Gazebos, Cross-team Collaboration, +7 skills
+
+Other contributors
+
+
+
+In...
