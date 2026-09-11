@@ -1,6 +1,6 @@
 import { useEffect, useState } from 'react';
 import { QueryClient, QueryClientProvider } from '@tanstack/react-query';
-import { Activity, ArrowDown, ArrowUpRight, Box, Check, ChevronDown, Crosshair, ExternalLink, Github, Linkedin, Mail, Menu, MoveUpRight, Phone, Plane, Satellite, Terminal, X } from 'lucide-react';
+import { Activity, ArrowDown, ArrowUpRight, Box, Check, ChevronDown, Crosshair, Download, ExternalLink, Github, Linkedin, Mail, Menu, MoveUpRight, Phone, Plane, Satellite, Terminal, X } from 'lucide-react';
 import { TooltipProvider } from '@/components/ui/tooltip';
 import { Toaster } from '@/components/ui/toaster';
 
@@ -304,6 +304,7 @@ function Hero() {
         <div className="hero-actions reveal reveal-delay-3">
           <a className="button-primary" href="#work" data-testid="link-hero-work">EXPLORE THE WORK <ArrowDown size={16} /></a>
           <a className="button-text" href="#contact" data-testid="link-hero-contact">GET IN TOUCH <ArrowUpRight size={16} /></a>
+          <a className="button-text resume-download" href={`${import.meta.env.BASE_URL}akshitha-shetty-resume.pdf`} download="Akshitha-Shetty-Resume.pdf" data-testid="link-hero-resume">DOWNLOAD RESUME <Download size={16} /></a>
         </div>
       </div>
       <div className="hero-radar" aria-label="Abstract navigation radar visualization">
@@ -423,7 +424,7 @@ function ContactSection() {
       <h2>Have a system<br />in mind<span>?</span></h2>
       <p>I'm always interested in thoughtful problems at the edge of autonomy, UAV systems, and the physical world.</p>
       <a className="contact-email" href="mailto:akshithashetty982@gmail.com" data-testid="link-email"><span>akshithashetty982@gmail.com</span><ArrowUpRight size={21} /></a>
-      <div className="contact-details"><a href="tel:+917829154715" data-testid="link-phone"><Phone size={15} />+91 7829154715</a><span className="contact-divider" /><a href="https://github.com" target="_blank" rel="noreferrer" data-testid="link-github"><Github size={15} />GitHub <ExternalLink size={12} /></a><a href="https://www.linkedin.com/in/akshitha-shetty-01a1a2284" target="_blank" rel="noreferrer" data-testid="link-linkedin"><Linkedin size={15} />LinkedIn <ExternalLink size={12} /></a></div>
+      <div className="contact-details"><a href="tel:+917829154715" data-testid="link-phone"><Phone size={15} />+91 7829154715</a><span className="contact-divider" /><a className="resume-download" href={`${import.meta.env.BASE_URL}akshitha-shetty-resume.pdf`} download="Akshitha-Shetty-Resume.pdf" data-testid="link-contact-resume"><Download size={15} />Resume PDF</a><a href="https://github.com" target="_blank" rel="noreferrer" data-testid="link-github"><Github size={15} />GitHub <ExternalLink size={12} /></a><a href="https://www.linkedin.com/in/akshitha-shetty-01a1a2284" target="_blank" rel="noreferrer" data-testid="link-linkedin"><Linkedin size={15} />LinkedIn <ExternalLink size={12} /></a></div>
     </section>
   );
 }
